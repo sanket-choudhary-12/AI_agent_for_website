@@ -1,0 +1,5 @@
+speechrecognition
+PyAudio
+selenium
+requests
+beautifulsoup4
